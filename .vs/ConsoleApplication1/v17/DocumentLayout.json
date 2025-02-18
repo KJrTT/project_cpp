@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041F\u0435\u0442\u0440\\source\\repos\\ConsoleApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91012097-F45A-47B4-99E1-6A6E0E5D4F2E}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\\u041F\u0435\u0442\u0440\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\Buyer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91012097-F45A-47B4-99E1-6A6E0E5D4F2E}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\Buyer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91012097-F45A-47B4-99E1-6A6E0E5D4F2E}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\\u041F\u0435\u0442\u0440\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\ProductInto.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91012097-F45A-47B4-99E1-6A6E0E5D4F2E}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\ProductInto.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91012097-F45A-47B4-99E1-6A6E0E5D4F2E}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\\u041F\u0435\u0442\u0440\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\Product.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91012097-F45A-47B4-99E1-6A6E0E5D4F2E}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\Product.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91012097-F45A-47B4-99E1-6A6E0E5D4F2E}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\\u041F\u0435\u0442\u0440\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\Magazin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91012097-F45A-47B4-99E1-6A6E0E5D4F2E}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\Magazin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91012097-F45A-47B4-99E1-6A6E0E5D4F2E}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\\u041F\u0435\u0442\u0440\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\Magazin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91012097-F45A-47B4-99E1-6A6E0E5D4F2E}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\Magazin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91012097-F45A-47B4-99E1-6A6E0E5D4F2E}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\\u041F\u0435\u0442\u0440\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\ProductInto.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91012097-F45A-47B4-99E1-6A6E0E5D4F2E}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\ProductInto.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91012097-F45A-47B4-99E1-6A6E0E5D4F2E}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\\u041F\u0435\u0442\u0440\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\Product.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91012097-F45A-47B4-99E1-6A6E0E5D4F2E}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\Product.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91012097-F45A-47B4-99E1-6A6E0E5D4F2E}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\\u041F\u0435\u0442\u0440\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91012097-F45A-47B4-99E1-6A6E0E5D4F2E}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91012097-F45A-47B4-99E1-6A6E0E5D4F2E}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\\u041F\u0435\u0442\u0440\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\Buyer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91012097-F45A-47B4-99E1-6A6E0E5D4F2E}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\Buyer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductInto.cpp",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0435\u0442\u0440\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\ProductInto.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\ProductInto.cpp",
+              "ToolTip": "C:\\Users\\\u041F\u0435\u0442\u0440\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\ProductInto.cpp",
+              "RelativeToolTip": "ConsoleApplication1\\ProductInto.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-18T16:10:54.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cpp",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0435\u0442\u0440\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\Product.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\Product.cpp",
+              "ToolTip": "C:\\Users\\\u041F\u0435\u0442\u0440\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\Product.cpp",
+              "RelativeToolTip": "ConsoleApplication1\\Product.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-18T15:44:19.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Magazin.cpp",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0435\u0442\u0440\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\Magazin.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\Magazin.cpp",
+              "ToolTip": "C:\\Users\\\u041F\u0435\u0442\u0440\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\Magazin.cpp",
+              "RelativeToolTip": "ConsoleApplication1\\Magazin.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-18T15:43:53.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductInto.h",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0435\u0442\u0440\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\ProductInto.h",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\ProductInto.h",
+              "ToolTip": "C:\\Users\\\u041F\u0435\u0442\u0440\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\ProductInto.h",
+              "RelativeToolTip": "ConsoleApplication1\\ProductInto.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-18T15:42:55.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Magazin.h",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0435\u0442\u0440\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\Magazin.h",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\Magazin.h",
+              "ToolTip": "C:\\Users\\\u041F\u0435\u0442\u0440\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\Magazin.h",
+              "RelativeToolTip": "ConsoleApplication1\\Magazin.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-18T15:42:41.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.h",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0435\u0442\u0440\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\Product.h",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\Product.h",
+              "ToolTip": "C:\\Users\\\u041F\u0435\u0442\u0440\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\Product.h",
+              "RelativeToolTip": "ConsoleApplication1\\Product.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-18T15:42:29.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Buyer.h",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0435\u0442\u0440\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\Buyer.h",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\Buyer.h",
+              "ToolTip": "C:\\Users\\\u041F\u0435\u0442\u0440\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\Buyer.h",
+              "RelativeToolTip": "ConsoleApplication1\\Buyer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-18T15:41:21.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Buyer.cpp",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0435\u0442\u0440\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\Buyer.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\Buyer.cpp",
+              "ToolTip": "C:\\Users\\\u041F\u0435\u0442\u0440\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\Buyer.cpp",
+              "RelativeToolTip": "ConsoleApplication1\\Buyer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-18T15:41:10.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0435\u0442\u0440\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\main.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\main.cpp",
+              "ToolTip": "C:\\Users\\\u041F\u0435\u0442\u0440\\source\\repos\\ConsoleApplication1\\ConsoleApplication1\\main.cpp",
+              "RelativeToolTip": "ConsoleApplication1\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-18T15:39:38.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
