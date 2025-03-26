@@ -11,7 +11,7 @@ class ProductInto {
 	double price;
 	int quantity;
 public:
-	ProductInto(double price, int quantity, Product product) : price(price), quantity(quantity), product(product) {};
+	ProductInto(double price, int quantity, Product product);
 
 	double getPrice();
 	int getQuantity();

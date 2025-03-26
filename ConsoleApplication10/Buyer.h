@@ -2,7 +2,7 @@
 #include <iostream>
 #include <map>
 #include "Product.h"
-#include "Magazin.h"
+#include "Shop.h"
 using namespace std;
 
 class Buyer {

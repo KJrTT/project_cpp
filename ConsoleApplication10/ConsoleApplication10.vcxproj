@@ -129,16 +129,18 @@
   <ItemGroup>
     <ClCompile Include="Buyer.cpp" />
     <ClCompile Include="ConsoleApplication10.cpp" />
-    <ClCompile Include="Magazin.cpp" />
+    <ClCompile Include="Shop.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Product.cpp" />
     <ClCompile Include="ProductInto.cpp" />
+    <ClCompile Include="ShopManager.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Buyer.h" />
-    <ClInclude Include="Magazin.h" />
+    <ClInclude Include="Shop.h" />
     <ClInclude Include="Product.h" />
     <ClInclude Include="ProductInto.h" />
+    <ClInclude Include="ShopManager.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

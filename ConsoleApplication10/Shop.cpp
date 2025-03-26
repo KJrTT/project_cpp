@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-#include "Magazin.h"
+#include "Shop.h"
 using namespace std;
 
 
