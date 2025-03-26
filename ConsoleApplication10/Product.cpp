@@ -11,7 +11,6 @@ int Product::getId() {
 	return id;
 }
 
-ostream& operator<<(ostream& os, const Product& product) {
-	os << product.title;
-	return os;
-}
+bool Product::operator<(const Product& other) const{ 
+		return title < other.title; 
+} 

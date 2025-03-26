@@ -11,11 +11,6 @@ public:
 	string getTitle() const;
 	int getId();
 
-	bool operator<(const Product& other) const {
-		return title < other.title;
-	}
-
-	friend ostream& operator<<(ostream& os, const Product& product);
-
+	bool operator<(const Product& other) const;
 
 };

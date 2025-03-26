@@ -11,7 +11,7 @@ void Shop::addProduct(Product product, double price, int quantity) {
 
 
 bool Shop::check_product(string research_product) {
-	for (auto list : products) {
+	for (auto& list : products) {
 		if (list.getProduct().getTitle() == research_product) {
 			return true;
 		}
@@ -20,17 +20,13 @@ bool Shop::check_product(string research_product) {
 }
 
 double Shop::getPrice(string product_name) {
-	for (auto list : products) {
+	for (auto& list : products) {
 		if (list.getProduct().getTitle() == product_name) {
 			return list.getPrice();
 		}
 	}
 	throw runtime_error("Товара нету");
 }
-
-//int Shop::getquantity() {
-
-//}
 
 bool Shop::sell_product(string productName, int quantity) {
 	for (auto& list : products) {
